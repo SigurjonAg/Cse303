@@ -1,0 +1,5 @@
+Hello, recently I have had some issues with the project and so I have been reluctant to be in touch. I know this is counterproductive  and against what the project is all about.
+
+I felt I needed to resolve the issues on my own but I could not. Add to this that I was not feeling to well lately and it all became a bit overwhelming. 
+
+Now things are going much better, although I have still not resolved my issues. They are related to the fact that the 'oracle' I created that is supposed to detect whether a reduction will happen or not is not working. 
